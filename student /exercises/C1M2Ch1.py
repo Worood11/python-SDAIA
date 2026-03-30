@@ -10,3 +10,20 @@ print(2++2)
 #print(4 2)
 #it will throw a SyntaxError
 #print(round(42.5)
+
+#Ex3
+type(765) #int
+
+type(2.718) #float
+
+type('2 pi') #str
+
+type(abs(-7)) #int
+
+type(abs(-7.0)) #float
+
+print(abs) # built-in function
+
+print(int) #class
+
+print(type) #class
